@@ -52,7 +52,7 @@ THE SOFTWARE.
 		<revision>1.13</revision>
 		<changelist>-SNAPSHOT</changelist>
 		<gitHubRepo>jenkinsci/http-request-plugin</gitHubRepo>
-		<jenkins.version>2.235.5</jenkins.version>
+		<jenkins.version>2.263.4</jenkins.version>
 		<java.level>8</java.level>
 		<hpi.compatibleSinceVersion>1.8.17</hpi.compatibleSinceVersion>
 	</properties>
@@ -75,8 +75,8 @@ THE SOFTWARE.
 		<dependencies>
 			<dependency>
 				<groupId>io.jenkins.tools.bom</groupId>
-				<artifactId>bom-2.235.x</artifactId>
-				<version>918.vae501d2cdc99</version>
+				<artifactId>bom-2.263.x</artifactId>
+				<version>950.v396cb834de1e</version>
 				<scope>import</scope>
 				<type>pom</type>
 			</dependency>
